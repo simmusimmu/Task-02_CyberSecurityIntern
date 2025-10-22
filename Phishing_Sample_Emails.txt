@@ -1,0 +1,36 @@
+This are the sample phishing emails:
+
+​1. From: Rewards offer@lqprizc.example.net
+To: Peter Smith peter.smith@tryhackme.com
+Subject: You've been selected! Claim your $2,000 refund now
+Congratulations - you've been randomly selected for a refund of $2,000. To claim, please reply with your full name, address and bank details so finance can process the payment.
+This is Phishing
+{Offers require sensitive personal or banking details}
+
+​2. From: Security Alerts alerts@bank.example.com
+To: Peter Smith peter.smith@tryhackme.com
+Subject: IMMEDIATE ACTION REQUIRED: Account suspension notice
+Dear user, your account will be permanently suspended within 24 hours unless you verify your identity. Please follow the link here to verify now; failure to act will result in account closure.
+This is Phishing
+{Uses urgent scare language to force action}
+
+​3. From: CEO Office ceo@tryhackme-support.com
+To: Finance Team finance@tryhackme.com
+Subject: Urgent wire transfer - confidential
+Team, I need an immediate wire transfer of $25,000 to the account listed below for a confidential acquisition. Please process this now and do not circulate.
+This is Phishing
+{Impersonates executive and requests urgent wire transfer}
+
+4. ​From: Recruitment job@career-opps.example.com
+To: Peter Smith peter.smith@tryhackme.com
+Subject: Exciting job opportunity - immediate start
+Congratulations! We reviewed your profile and you'd be perfect for a new role. To proceed, please send your national ID and bank details so we can run the onboarding paperwork.
+This is Phishing
+{Asks for sensitive personal identification and banking details}
+
+​5. From: Social Updates no-reply@social.example.com
+To: Peter Smith peter.smith@tryhackme.com
+Subject: Reset your password to secure your account
+We detected suspicious activity. To secure your account, click https://social.example-security.com/reset and follow the steps to reset your password.
+This is Phishing
+{Redirects to a malicious password reset page}

@@ -1,0 +1,60 @@
+Email Phishing Analysis:-
+
+Overview:-
+
+Email Phishing is a attack used for misleading of people. Phishing is a social‑engineering attack where an attacker sends emails that try to trick recipients into revealing sensitive information (passwords, financial data), clicking malicious links, or opening infected attachments. Attackers often impersonate trusted organizations (banks, employers, colleagues, services) and rely on urgency, authority, or curiosity.
+
+Legitimate Emails:-
+
+A legitimate email is a genuine message sent from a trusted source or company using their official domain and secure email practices. Such emails maintain professional language, proper formatting, and verified authentication headers.
+
+Legitimate emails generally have the following characteristics:
+
+Sender Address: They come from the company’s official domain (the part after the “@” symbol). For example, a genuine Amazon email would come from “support@amazon.in
+.”
+
+URLs and Links: The links provided in the email lead directly to the company’s official website and match the organization’s domain name.
+
+Tone and Intent: Legitimate emails do not create panic or pressure the recipient into clicking links or sharing information immediately. They use calm, professional, and polite language.
+
+🚨 Phishing Emails and Indicators:-
+
+Phishing emails are fraudulent messages that impersonate trusted organizations to deceive recipients. They are designed to trick users into clicking malicious links, downloading harmful attachments, or sharing personal credentials such as passwords or bank details.
+
+Below are the most common indicators of phishing emails:
+
+Suspicious Sender: The sender’s address doesn’t match the organization’s official domain. For example, “security@paypa1.com
+” (with the number 1) instead of “security@paypal.com
+.”
+
+Generic Greeting: Instead of using your real name, phishing emails often start with “Dear Customer” or “Dear User,” indicating it’s a mass email sent to many people.
+
+Urgent or Threatening Language: These emails try to create a sense of panic or urgency, such as “Your account will be suspended in 24 hours!” to make you act quickly without thinking.
+
+Requests for Sensitive Information: Phishing emails often ask you to share personal information like OTPs, passwords, or bank details through links or replies.
+
+Mismatched URLs: When you hover over a link, the real destination doesn’t match the displayed text. For example, the text might say “www.bankofindia.com,”
+ but the link goes to “malicious.site.”
+
+Too-Good-to-Be-True Offers: Unrealistic rewards, refunds, or gifts such as “You’ve won ₹10,00,000! Click to claim now!” are classic signs of phishing.
+
+Spelling and Grammar Errors: Many phishing emails contain poor grammar, misspellings, or awkward phrasing like “Your acount has been bloked please verify urgent.”
+
+Misspelled Domain Names: Attackers use domains that look similar to legitimate ones, like “micros0ft.com” or “facebo0k-login.net,” hoping the user won’t notice the difference.
+
+Tools used:-
+
+During the analysis, the following tools and methods were used:
+
+Manual Inspection: Observed sender details, email tone, and content authenticity.
+
+Header Analysis: Checked the email header for SPF, DKIM, and DMARC validation.
+
+Domain Reputation Check: Verified the trustworthiness of the sender’s domain using online tools such as MXToolbox and Google Safe Browsing.
+
+Site Overview: Inspected embedded links and attachments using VirusTotal to ensure they were not malicious.
+
+Conclusion:-
+
+Email phishing is one of the most common and dangerous forms of cyberattack, using deception to trick people into giving away sensitive information, clicking harmful links, or downloading malicious attachments. While phishing emails can look convincing, they often contain red flags such as suspicious senders, urgent language, generic greetings, and fake links.
+
